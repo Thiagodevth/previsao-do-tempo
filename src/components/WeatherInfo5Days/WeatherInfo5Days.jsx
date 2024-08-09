@@ -2,7 +2,6 @@ import './WeatherInfo5Days.css'
 
 // eslint-disable-next-line react/prop-types
 function WeatherInformation5Days({ weather5Days }) {
-
    const dailyForecast = {}
 
    // eslint-disable-next-line react/prop-types
